@@ -1,6 +1,7 @@
-   {
-      "name": "Poniontest",
-      "symbol": "PONT",
-      "image": "https://github.com/FlouzeToken/Meta/blob/main/logo.png",
-      "description": "This is a ponion token test",
-    },
+{
+	"name": "Poniontest",
+   "symbol": "PONT",
+	"uri": "https://raw.githubusercontent.com/FlouzeToken/Meta/main/poniontest.json",
+	"image": "https://raw.githubusercontent.com/FlouzeToken/Meta/main/logo.png",
+   "description": "This is a ponion token test",
+},
