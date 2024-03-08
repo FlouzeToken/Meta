@@ -1,11 +1,6 @@
    {
-      "chainId": 101,
-      "address": "Gu4gySninrBJv51mBwuRu3YWuZXw8dsei2YQdwTia9L5",
-      "symbol": "PON",
-      "name": "Ponion",
-      "decimals": 6,
-      "logoURI": "https://github.com/FlouzeToken/Meta/blob/main/logo.png",
-      "tags": [
-        "utility-token"
-      ]
+      "name": "Poniontest",
+      "symbol": "PONT",
+      "image": "https://github.com/FlouzeToken/Meta/blob/main/logo.png",
+      "description": "This is a ponion token test",
     },
